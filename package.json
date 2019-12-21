@@ -15,8 +15,8 @@
   "browser": "dist/relib.umd.js",
   "types": "dist/types/index.d.ts",
   "author": {
-    "name": "Alexander T.",
-    "email": "alexander.tarasyuk@outlook.com"
+    "name": "Abcat",
+    "email": "huangjian1820@gmail.com"
   },
   "license": "MIT",
   "devDependencies": {
