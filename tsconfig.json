@@ -2,6 +2,8 @@
   "compilerOptions": {
     "alwaysStrict": true,
     "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
     "noFallthroughCasesInSwitch": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
@@ -20,7 +22,8 @@
     "strict": true
   },
   "include": [
-    "src/**/*"
+    "src",
+    "types"
   ],
   "exclude": [
     "node_modules",

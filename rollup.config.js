@@ -64,7 +64,7 @@ if (isDebug) {
     serve({
       open: true,
       verbose: false,
-      contentBase: ['dist'],
+      contentBase: ['dist', 'example'],
       historyApiFallback: true,
       host: '127.0.0.1',
       port: 3000

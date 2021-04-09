@@ -42,5 +42,4 @@ counter.subtract();
 counter.subtract();
 counter.getValue();
 
-console.log(counter, '>>>>');
-console.log('start!!!');
+console.log('dfdf')
